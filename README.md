@@ -1,5 +1,7 @@
 # shop-cart
 
+A React application
+
 # Description
 
 This is a simple application to ilustrate a page os products
@@ -19,5 +21,5 @@ No cabeçalho um ícone verde informa o total de produtos incluidos no carrinho
 Essa aplicação é destinada a fins didáticos e para prática decódigo
 
 
-# link do vercel:
+# deploy link:
 https://shop-cart-gold.vercel.app/
