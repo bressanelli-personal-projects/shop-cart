@@ -58,6 +58,9 @@ Projeto já finalizado e funcional
   <li>React</li>
   <li>JavaScript</li> 
   <li>Styled Components</li>
+  <li>Redux</li>
+  <li>Redux Thunk</li>
+  <li>React Router Dom</li>
 </ul>
 
 <h2 id="author">Autor</h2>
